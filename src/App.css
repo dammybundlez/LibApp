@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+
+.App {
+  font-family: 'Shippori Antique', sans-serif;
+}
+.card {
+  max-height: 50px;
+}
+.card img{
+  max-height: 200px;
+  max-width: 350px;
+}
+.card-text{
+  max-height: 50px;
+  max-width: 170px;
+}
